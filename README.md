@@ -234,5 +234,3 @@ Overview of the three S3 buckets used in the project.
 ## Author
 
 **Karthikeya Puligadda**
-
-This repository documents an educational AWS project. The implementation and validation statements reflect the resources tested during the project and do not constitute a production security assessment.
