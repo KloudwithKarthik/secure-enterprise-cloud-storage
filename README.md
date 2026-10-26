@@ -131,9 +131,7 @@ The public static website is hosted separately.
 - Use IAM permissions that grant only the access required for the task.
 - Keep the public website bucket separate from private files.
 - Never upload AWS access keys, secret keys, passwords, private keys, or session tokens to GitHub.
-- Review account identifiers and other sensitive details before publishing screenshots.
-
-This is a learning project and has not been presented as a production-ready architecture.
+- Review account identifiers and other sensitive details.
 
 ## Cost Considerations
 
