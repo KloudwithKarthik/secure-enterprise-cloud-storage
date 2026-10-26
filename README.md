@@ -139,8 +139,6 @@ This is a learning project and has not been presented as a production-ready arch
 
 AWS charges may apply for storage, requests, retrievals, lifecycle transitions, and cross-region data transfer. S3 Standard-IA may also have minimum storage-duration and retrieval charges.
 
-Review current AWS pricing and remove resources that are no longer required.
-
 ## Repository Structure
 
 ```text
@@ -214,7 +212,7 @@ Overview of the three S3 buckets used in the project.
 
 ![IAM User DR Bucket Access](screenshots/iam-user-dr-bucket-access.png)
 
-**Replication validation note:** The replication rule is enabled, and successful replication was verified for the tested object. These screenshots do not establish that every object has replicated.
+**Replication validation note:** The replication rule is enabled, and successful replication was verified for the tested object. 
 
 ## Future Improvements
 
