@@ -1,0 +1,4 @@
+Project: Secure Enterprise Cloud Storage
+Service: Amazon S3
+Purpose: Secure file storage and disaster recovery
+Version : New version for the private bucket 
